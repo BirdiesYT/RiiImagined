@@ -41,3 +41,12 @@ th, td {
 table {
     width: 100%;
 }
+
+kbd {
+    border: 1px solid #606060;
+    border-radius: 6px;
+    width: 110%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, #808080, #404040);
+    user-select: none;
+}
