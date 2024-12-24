@@ -1,0 +1,30 @@
+
+body {
+    background-image: linear-gradient(to bottom, #6f1111, #000000);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    font-family: Montserrat;
+    color: #304050;
+    background-color: #000000;
+}
+
+img.icon {
+    width: 3%;
+    height: 3%;
+}
+
+a:before {
+    color: #68b9c4;
+}
+
+a:hover {
+    color: #79cad5;
+}
+
+a:visited {
+    color: #4f5b92;
+}
